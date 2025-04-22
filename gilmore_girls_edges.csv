@@ -1,0 +1,26 @@
+Source,Target,Weight
+Lorelai,Rory,8
+Lorelai,Luke,5
+Lorelai,Sookie,4
+Lorelai,Michel,2
+Lorelai,Emily,3
+Lorelai,Dean,1
+Rory,Dean,4
+Rory,Lane,3
+Lorelai,Lane,1
+Rory,Paris,1
+Rory,Emily,2
+Lorelai,Mrs. Kim,1
+Lane,Mrs. Kim,2
+Sookie,Michel,2
+Lorelai,Miss Patty,1
+Rory,Miss Patty,1
+Lorelai,Babette,1
+Babette,Morey,1
+Lorelai,Morey,1
+Emily,Richard,2
+Lorelai,Richard,2
+Rory,Richard,1
+Lorelai,Paris,1
+Rory,Tristan,2
+Lorelai,Tristan,1
